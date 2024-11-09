@@ -85,3 +85,14 @@ body {
     padding: 0.5rem;
 }
 /* คณะที่ศึกษา */
+
+/* Email */
+.email_group {
+    margin: 1rem 0px;
+}
+
+#email {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+}
