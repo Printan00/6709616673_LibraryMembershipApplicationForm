@@ -61,3 +61,15 @@ body {
     margin-right: 0.5rem;
 }
 /* Gender group */
+
+/* Student group */
+.studentid_group {
+    margin: 1rem 0px;
+}
+
+#student_id {
+    margin-top: 0.5rem;
+    width: 100%;
+    padding: 10px;
+}
+/* Student id */
