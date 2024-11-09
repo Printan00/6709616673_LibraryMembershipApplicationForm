@@ -26,12 +26,15 @@ body {
     border-radius: 5%;
 }
 
+/* header */
 .signup {
     margin-top: 1rem;
     font-size: 2rem;
     color: #FF9C73;
 }
+/* header */
 
+/* Name group */
 #firstname_thai, #lastname_thai, #firstname_eng ,#lastname_eng {
     width: 100%;
     padding: 10px;
@@ -41,3 +44,20 @@ body {
 .name_eng {
     margin-top: 1rem;
 }
+/* Name group */
+
+/* Gender group */
+.gender_group{
+    margin: 0.5rem 0px;
+}
+
+.gender {
+    margin-top: 0.5rem;
+    display: flex;
+    gap: 1rem;
+}
+
+#gender {
+    margin-right: 0.5rem;
+}
+/* Gender group */
