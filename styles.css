@@ -121,3 +121,15 @@ body {
     width: 100%;
 }
 /* หนังสือที่สนใจ */
+
+/* News from library */
+.news_group {
+    margin: 1rem 0px;   
+}
+
+.decide {
+    margin-top: 0.25rem;
+    display: flex;
+    gap: 1rem;
+}
+/* News from library */
