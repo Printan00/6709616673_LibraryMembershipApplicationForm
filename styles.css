@@ -133,3 +133,15 @@ body {
     gap: 1rem;
 }
 /* News from library */
+
+/* Submit button */
+.submit_button {
+    width: 100%;
+    margin: 1rem 0px ;
+    padding: 0.5rem;
+    font-size: 16px;
+    background-color: #FF4545;
+    border: none;
+    color: white;
+}
+/* Submit button */
