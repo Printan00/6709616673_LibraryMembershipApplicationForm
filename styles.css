@@ -8,6 +8,7 @@
 
 body {
     font-family: Monserant , sans-serif;
+    font-size: 1rem;
 }
 
 .container {
@@ -25,4 +26,14 @@ body {
     margin-top: 1rem;
     font-size: 2rem;
     color: #FF9C73;
+}
+
+#firstname_thai, #lastname_thai, #firstname_eng ,#lastname_eng {
+    width: 100%;
+    padding: 10px;
+    margin-top: 0.5rem;
+}
+
+.name_eng {
+    margin-top: 1rem;
 }
