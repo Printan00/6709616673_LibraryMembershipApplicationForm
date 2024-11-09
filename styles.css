@@ -32,6 +32,8 @@ body {
     margin-top: 1rem;
     font-size: 2rem;
     color: #112D4E;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 /* header */
 
@@ -144,5 +146,11 @@ body {
     background-color: #3F72AF;
     border: none;
     color: white;
+    cursor: pointer;
+}
+
+.submit_button:hover {
+    background-color: #193c65;
+    transition: ease 0.5s;
 }
 /* Submit button */
