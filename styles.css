@@ -13,7 +13,7 @@ body {
 .container {
     width: 30%;
     height: auto;
-    background-color: #FBD288;
+    background-color: #FCF596;
     margin: 1rem auto;
     display: flex;
     flex-direction: column;
@@ -24,5 +24,5 @@ body {
 .signup {
     margin-top: 1rem;
     font-size: 2rem;
-    color: #FF4545;
+    color: #FF9C73;
 }
