@@ -109,3 +109,15 @@ body {
     margin-top: 0.25rem;
 }
 /* Birthday */
+
+/* หนังสือที่สนใจ */
+.book_interest_group {
+    margin: 1rem 0px;
+}
+
+#book_interest {
+    margin-top: 0.25rem;
+    padding: 0.5rem;
+    width: 100%;
+}
+/* หนังสือที่สนใจ */
