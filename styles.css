@@ -52,7 +52,7 @@ body {
 }
 
 .gender {
-    margin-top: 0.5rem;
+    margin-top: 0.25rem;
     display: flex;
     gap: 1rem;
 }
@@ -68,7 +68,7 @@ body {
 }
 
 #student_id {
-    margin-top: 0.5rem;
+    margin-top: 0.25rem;
     width: 100%;
     padding: 0.5rem;
 }
@@ -81,7 +81,7 @@ body {
 
 #fuculty {
     width: 100%;
-    margin-top: 0.5rem ;
+    margin-top: 0.25rem ;
     padding: 0.5rem;
 }
 /* คณะที่ศึกษา */
@@ -94,5 +94,18 @@ body {
 #email {
     width: 100%;
     padding: 0.5rem;
-    margin-top: 0.5rem;
+    margin-top: 0.25rem;
 }
+/* Email */
+
+/* Birthday */
+.birthday_group {
+    margin: 1rem 0px;
+}
+
+#birthday {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.25rem;
+}
+/* Birthday */
